@@ -31,7 +31,7 @@ In addition to the material in this git repository, we've also used materials fr
       * Matlab, python
     * Practical walkthrough - understanding variance
       - [Machine Learning 101 - using sklearn](https://github.com/jonhare/NGCM_MachineLearningCourse/blob/master/tutorials/scikit-learn/README.md)
-- **Day 2:** Advanced Machine Learning
+- **Day 2:** [Advanced Machine Learning](https:./advancedML.pdf) (Print version [1](https:./advancedML_prn.pdf) [4](https:./advancedML_prn_4.pdf) [8](https:./advancedML_prn_8.pdf))
   + *Leaders: Prof Niranjan, Prof Prugel-Bennett and Dr Hare*
   + Generalisation: Bias-Variance Dilema
   + Kernel methods
