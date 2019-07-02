@@ -16,7 +16,7 @@ In addition to the material in this git repository, we've also used materials fr
 - **Day 1:** Overview of Machine Learning
   + *Leaders: Prof Niranjan, Prof Prugel-Bennett and Dr Hare*
   + Topics Covered:
-    * Success stories in machine learning
+    * [Success stories in machine learning](https:./intro.pdf)
     * [Failures of machine learning](https://github.com/jonhare/DISCNetMachineLearningCourse/blob/master/Monday/ML-failures.md)
     * Machine learning techniques
       * Linear Regression, MLP, SVMs, Decision Trees, Deep Learning
