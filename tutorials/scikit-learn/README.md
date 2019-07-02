@@ -4,17 +4,9 @@ Welcome to the repository for our workshop, part of the festival for doctoral re
 
 ## Opening in Colab
 
-Colab is a free resource provided by Google that can be used to run Jupyter notebooks. It provides a useful platform to develop and test data science code, even if it requires the use of a GPU. The notebooks in this repo can be opened in Colab with the following instructions:
+Colab is a free resource provided by Google that can be used to run Jupyter notebooks. It provides a useful platform to develop and test data science code, even if it requires the use of a GPU. The notebooks in this repo can be opened in Colab by clicking the buttons below:
 
-1. Go to the Colab website: https://colab.research.google.com/
-2. Choose Github in the top bar
-3. Type `ecs-vlc` into the search box and hit enter
-4. Ensure that this repository is selected from the drop down
-5. Choose a notebook and get coding!
+- *Easy:* Diabetes prediction - Decision tree classification: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonhare/NGCM_MachineLearningCourse/blob/master/tutorials/scikit-learn/Decision Trees.ipynb)
+- *Intermediate:* Text classification - K-means, KNN, SVM: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonhare/NGCM_MachineLearningCourse/blob/master/tutorials/scikit-learn/KMeans_KNN_SVM.ipynb)
 
-Note - we recommend you select the `copy to drive` button in the top left corner, this will let you save your work in your google drive
-
-## The notebooks
-- *Easy:* Diabetes prediction - Decision tree classification
-- *Intermediate:* Text classification - K-means, KNN, SVM
-- 
+Note, once loaded, we recommend you select the `copy to drive` button in the top left corner, this will let you save your work in your google drive.

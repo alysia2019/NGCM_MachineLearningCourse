@@ -9,3 +9,5 @@ Colab is a free resource provided by Google that can be used to run Jupyter note
 - part 1: Digit recognition - CNN: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonhare/NGCM_MachineLearningCourse/blob/master/tutorials/Keras/part1/part1-tutorial.ipynb)
 - part 2: Boat classification - Transfer learning: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonhare/NGCM_MachineLearningCourse/blob/master/tutorials/Keras/part2/part2_tutorial.ipynb)
 - part 3: Sequence classification - RNN: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonhare/NGCM_MachineLearningCourse/blob/master/tutorials/Keras/part3/part3_tutorial.ipynb)
+
+Note, once loaded, we recommend you select the `copy to drive` button in the top left corner, this will let you save your work in your google drive.
