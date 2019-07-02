@@ -30,8 +30,7 @@ In addition to the material in this git repository, we've also used materials fr
     *  Common tools
       * Matlab, python
     * Practical walkthrough - understanding variance
-      - [Machine Learning 101 - classifying text  with sklearn](https://github.com/jonhare/NGCM_MachineLearningCourse/blob/master/tutorial_part1/tutorial.md)
-      - Discussion about what problems we would like to explore on Friday
+      - [Machine Learning 101 - classifying text  with sklearn](https://github.com/jonhare/NGCM_MachineLearningCourse/blob/master/tutorials/scikit-learn/README.md)
 - **Day 2:** Advanced Machine Learning
   + *Leaders: Prof Niranjan, Prof Prugel-Bennett and Dr Hare*
   + Generalisation: Bias-Variance Dilema
@@ -44,5 +43,5 @@ In addition to the material in this git repository, we've also used materials fr
     - Gaussian Processes
     - (Graphical Models, LDA, MCMC)
   + Deep Learning
-  + [Practical Session: Deep Learning](https://github.com/jonhare/NGCM_MachineLearningCourse/blob/master/tutorial_part2/tutorial.md)
+  + [Practical Session: Deep Learning](https://github.com/jonhare/NGCM_MachineLearningCourse/blob/master/tutorials/Keras/README.md)
 
