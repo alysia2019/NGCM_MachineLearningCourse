@@ -4,7 +4,7 @@ This tutorial exposes you to Keras for Deep Learning. There are a three notebook
 
 ## Opening in Colab
 
-Colab is a free resource provided by Google that can be used to run Jupyter notebooks. It provides a useful platform to develop and test data science code, even if it requires the use of a GPU. The notebooks in this repo can be opened in Colab by clicking the links below:
+Colab is a free resource provided by Google that can be used to run Jupyter notebooks. It provides a useful platform to develop and test data science code, even if it requires the use of a GPU. The notebooks in this repo can be opened in Colab by clicking the buttons below:
 
 - part 1: Digit recognition - CNN: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonhare/NGCM_MachineLearningCourse/blob/master/tutorials/Keras/part1/part1-tutorial.ipynb)
 - part 2: Boat classification - Transfer learning: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonhare/NGCM_MachineLearningCourse/blob/master/tutorials/Keras/part2/part2_tutorial.ipynb)
